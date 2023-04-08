@@ -1,0 +1,15 @@
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\bin\Debug\net6.0\ConsoleAppQuiz.exe
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\bin\Debug\net6.0\ConsoleAppQuiz.deps.json
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\bin\Debug\net6.0\ConsoleAppQuiz.runtimeconfig.json
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\bin\Debug\net6.0\ConsoleAppQuiz.dll
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\bin\Debug\net6.0\ConsoleAppQuiz.pdb
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.csproj.AssemblyReference.cache
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.AssemblyInfoInputs.cache
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.AssemblyInfo.cs
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.dll
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\refint\ConsoleAppQuiz.dll
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.pdb
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ConsoleAppQuiz.genruntimeconfig.cache
+C:\Users\Crow\Desktop\portfolio\c#\console_app\ConsoleAppQuiz\ConsoleAppQuiz\obj\Debug\net6.0\ref\ConsoleAppQuiz.dll
