@@ -1,3 +1,3 @@
 # Quiz
-Een korte C# quiz van 3 vragen gemaakt in een Console App.
+Een korte C# quiz dat 3 vragen bevat, gemaakt in een Console App.
 * (OOP)
